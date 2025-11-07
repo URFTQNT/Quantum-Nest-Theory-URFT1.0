@@ -1,6 +1,6 @@
 # Unified Recursive Field Theory (URFT)
 **Born from Quantum Nest Theory**  
-© 2025 **YOUR NAME HERE** – All rights reserved until 12:00 EST Nov 07 2025
+© 2025 **Adam Troy Yroy – All rights reserved until 12:00 EST Nov 07 2025
 
 One 180-line Python file that:
 - Unifies quantum mechanics and gravity
